@@ -141,3 +141,15 @@ header {
     text-align: justify;
     color: #707070;
 }
+
+.sec3 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sec3 img {
+    width: 26%;
+    border-radius: 10px;
+}
