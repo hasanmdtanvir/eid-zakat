@@ -4,6 +4,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+@font-face {
+    font-family: lobster;
+    src: url(./Lobster/Lobster-Regular.ttf);
+}
+
 header {
     position: relative;
     margin-bottom: 150px;
@@ -158,6 +163,7 @@ header {
 .sec4 {
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 100px;
 }
 
 .sec4 h1 {
@@ -211,4 +217,25 @@ header {
     color: #EF233C;
     font-weight: 600;
     font-size: 20px;
+}
+
+footer {
+    background-color: #0B0D17;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+footer h2 {
+    font-family: 'lobster';
+    color: #EF233C;
+}
+
+footer p {
+    color: white;
 }
