@@ -96,3 +96,48 @@ header {
     width: 100%;
     border-radius: 10px;
 }
+
+.sec2 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sec2 h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+}
+
+.sec2 p {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #707070;
+    margin-bottom: 100px;
+}
+
+.sec2-content {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.sec2-inner1 {
+    display: flex;
+    width: 35%;
+}
+
+.sec2-inner1 img {
+    width: 56px;
+    height: 56px;
+    padding-right: 20px;
+}
+
+.sec2-inner1 p {
+    text-align: justify;
+    color: #707070;
+}
