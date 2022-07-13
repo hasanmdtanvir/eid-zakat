@@ -102,6 +102,14 @@ header {
     border-radius: 10px;
 }
 
+.link2 {
+    position: relative;
+    top: -70px;
+    color: #EF233C;
+    font-weight: 600;
+    font-size: 20px;
+}
+
 .sec2 {
     margin-left: 10%;
     margin-right: 10%;
@@ -164,6 +172,10 @@ header {
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 100px;
+}
+
+.sec4 .other-project {
+    color: #EF233C;
 }
 
 .sec4 h1 {
